@@ -233,7 +233,10 @@ params:
   # -
   #    name: Name
   #    link: https://example.com
-
+  customTabs:
+    - name: Monitoring
+      link: https://example.com/monitoring.php
+   
   # Disable complex server-side
   # calculations that may impact
   # your build performance
